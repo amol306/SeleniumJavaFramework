@@ -1,0 +1,26 @@
+[INFO ] 2020-09-23 21:51:17.856 [main] Log4jDemo - info 1. 
+
+[ERROR] 2020-09-23 21:51:17.865 [main] Log4jDemo - error 2. 
+
+[WARN ] 2020-09-23 21:51:17.866 [main] Log4jDemo - warn 3. 
+
+[FATAL] 2020-09-23 21:51:17.866 [main] Log4jDemo - fatal 4. 
+
+[INFO ] 2020-09-23 21:51:45.449 [main] Log4jDemo - info 1. 
+
+[ERROR] 2020-09-23 21:51:45.457 [main] Log4jDemo - error 2. 
+
+[WARN ] 2020-09-23 21:51:45.457 [main] Log4jDemo - warn 3. 
+
+[FATAL] 2020-09-23 21:51:45.458 [main] Log4jDemo - fatal 4. 
+
+[TRACE] 2020-09-23 21:52:36.517 [main] Log4jDemo - Trace Message 1. 
+
+[INFO ] 2020-09-23 21:52:36.524 [main] Log4jDemo - info 1. 
+
+[ERROR] 2020-09-23 21:52:36.526 [main] Log4jDemo - error 2. 
+
+[WARN ] 2020-09-23 21:52:36.527 [main] Log4jDemo - warn 3. 
+
+[FATAL] 2020-09-23 21:52:36.527 [main] Log4jDemo - fatal 4. 
+

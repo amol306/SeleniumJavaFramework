@@ -53,6 +53,11 @@
 			<version>4.1.2</version>
 		</dependency>
 
-
+		<!-- Applitools SDK -->
+		<dependency>
+			<groupId>com.applitools</groupId>
+			<artifactId>eyes-selenium-java3</artifactId>
+			<version>3.178.0</version>
+		</dependency>
 	</dependencies>
 </project>
